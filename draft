@@ -1,0 +1,47 @@
+## Phone Screen and Final Interviews
+
+While your role is posted, you may want to prepare the phone screen and interview feedback forms.  
+
+<details>
+  <summary>How to create an Interview Feedback Form</summary>
+
+### Creating the Interview Feedback Form
+* You must create a unique interview feedback form for each job posting (i.e. There must be a 1-1 relationship in form to Job Posting ID)
+* Duplicate this [Template Form](https://docs.google.com/forms/d/e/1FAIpQLSfbsaOEhq2zzKvNMGf4844H9w91miOFrkK1lhTw63qXKW834Q/viewform) and place it in the folder associated with your job posting
+Name the interview feedback using this format “[ROLE TITLE] - [POSTING ID] - Interview Feedback Form - [DATE CREATED-YYYY-MM-DD] “ 
+  * Example: Engineer - 1700259JCDE - Interview Feedback Form - 2017-05-11”
+* Make sure the hiring team has finalized their interviews guides (see: [Job Prep Guide](https://github.com/18F/TTS-Talent-Team/wiki/Getting-started:-Job-prep-guide) for details)
+* Once you have created the new form, you need to select the destination where evaluation responses will be sent.
+* Click on “Responses” then click on the Google Sheets Icon
+
+![application collection form image 1](https://github.com/18F/TTS-Talent-Team/blob/master/Screen%20Shot%202018-03-23%20at%205.06.51%20PM.png)
+
+* Click on “Create New Spreadsheet". Give the spreadsheet the same name you gave to the form, then save it to the same folder as the form was saved to. Copy the link to the spreadsheet into the "Link to interview feedback form" column of the [Hiring Actions DB](https://docs.google.com/spreadsheets/d/1StMACQg0YHQNsPUjwhC22GwSOrVGIoYiv4cm3zTelX4/edit?pli=1#gid=1433248778).
+
+</details>
+
+You will also want to set up at least one session of interviewer training for the hiring team before final interviews take place.  The interviewer training should take about 60 minutes, and anyone who thinks they will be conducting interviews should attend a training.  You may be able to accommodate everyone in one session, but it's possible you'll have to set up a couple of sessions.  Use this [TTS Interview Training deck](https://docs.google.com/presentation/d/1IvFawhU2lUPIQexUgCgCcRgxjaD5D9BGnRJYkAyM3JY/edit#slide=id.g6d9ab3b2cf_0_404) to guide your training session, and record attendance through the [TTS Interviewer Training Attendance form](https://docs.google.com/forms/d/1cX2ctZpqtfrLyTt4rbL2KagvK4P5o0eSqERwJjjQyxE/edit).
+
+Feedback and questions collected through the form can be found [in this spreadsheet](https://docs.google.com/spreadsheets/d/1buaJNfiUkYSGPUM_1kOR_KVsWk2AERfPBgC8S53H2vQ/edit?usp=drive_web&ouid=104848376109710224250) and you can also see if any of your interviewers has already recently attended a training session.  
+
+
+### Phone Screen
+
+* The recruiter will reach out to each candidate to invite them to a phone screen. The template for this can be found in [Candidate Comms](https://github.com/18F/TTS-Talent-Team/wiki/Candidate-&-Team-Communications). Phone screens are typically 30 minutes but should be confirmed with HM prior to scheduling.
+*  Once the candidate confirms availability, create calendar invites and a confirmation email using the [Talent Team meeting invite templates](https://docs.google.com/document/d/17nMlExhcG_fc7m7QxM8SLc7nHtgEw88Y-tFMe-8OKuU/edit).
+* To create a Phone Screen feedback form, save a version of the [template](https://docs.google.com/forms/d/1U79pwiP-SfB7szYLftPzYN8JdnbRKPWbowJOKjQAnRk/edit) and modify as needed
+* Once feedback is reviewed with the HM, candidates are either rejected or advanced to the Interview Stage. Email templates can be found in [Candidate Comms](https://github.com/18F/TTS-Talent-Team/wiki/Candidate-&-Team-Communications).
+* Recruiter should update the Applicant DB with any interview and disposition dates.
+
+### Interview
+
+* The recruiter will schedule the Interviews for any selected candidates. Ideally these interviews are back to back with 5-15 minute breaks for the candidate between each interview, but this may not always be possible.
+* Refer to [Candidate Comms](https://github.com/18F/TTS-Talent-Team/wiki/Candidate-&-Team-Communications) for the templates to confirm date/time with the candidate.
+* Recruiter should send calendar invites and confirmation email using the [Talent Team meeting invite templates](https://docs.google.com/document/d/17nMlExhcG_fc7m7QxM8SLc7nHtgEw88Y-tFMe-8OKuU/edit) once the candidate has confirmed a best time. 
+* Recruiter should schedule 15 minutes with the candidate at the end of the interview day or shortly after interviews to debrief and confirm location. More information about what to cover in that conversation is listed in [Candidate Comms](https://github.com/18F/TTS-Talent-Team/wiki/Candidate-&-Team-Communications).
+* A debrief should be scheduled to take place after the interviews are complete with all interviewers and HM to discuss the information shared in the interviews and collect feedback on the candidate. 30 minutes should suffice for one candidate, longer if discussing multiple candidates.
+* Recruiter should follow up with any candidates that are not selected for hire via email using the template in [Candidate Comms](https://github.com/18F/TTS-Talent-Team/wiki/Candidate-&-Team-Communications).
+* Recruiter should update the Applicant DB with any interview and disposition dates.
+
+
+
